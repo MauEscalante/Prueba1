@@ -1,0 +1,8 @@
+body{
+    background-image: url("tabla madera.jpg"); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
